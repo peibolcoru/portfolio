@@ -1,0 +1,9 @@
+:root {
+  --green-primary: #14E956;
+}
+
+*{
+  max-width: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
