@@ -1,0 +1,29 @@
+.header-container {
+    display: flex;
+    flex-direction: column;
+    font-family: quantico;
+    color:white;
+    font-size: 20px;
+}
+.myName{
+    display: flex;
+}
+ .myName > *{ 
+    color: var(--green-primary);
+    font-size: 20px;
+}
+p.cita{
+    text-align: center;
+    font-size: 20px;
+    margin:20px 0px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+
+.flash {
+    animation: flash 500ms ease infinite alternate;
+  }
+  @keyframes flash {
+      from { opacity: 1; }	
+      to { opacity: 0; }
+  }

@@ -1,0 +1,21 @@
+
+.menuSobre-container li{
+    font-size: 20px;
+    margin-left:60px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+.menuSobre-container{
+    max-height: 70px;
+    overflow: hidden; 
+    opacity: 1;
+    transition: max-height 0.6s ease-in-out, opacity 0.2s ease-in-out;
+}
+.menuSobre-container.close{
+    max-height: 20px;
+    opacity:0;
+    overflow: hidden;
+}
+.menuSobre-container li:hover {
+    color: var(--blue-primary)
+}

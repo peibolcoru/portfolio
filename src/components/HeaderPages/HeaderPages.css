@@ -1,0 +1,18 @@
+.headerPages-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.title-project{
+    color:var(--pink-primary);
+    font-family: prosto;
+    margin-top: 40px;
+}
+.button-scape{
+    color: var(--green-primary);
+    border: 1px solid var(--green-primary);
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 40px;
+}
