@@ -1,0 +1,15 @@
+.proyecto-header-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.proyecto-header-container h3 {
+    transition: transform 0.3s ease;
+}
+
+.proyecto-header-container img {
+    width: 100px;
+    border-radius: 20px;
+    transition: transform 0.3s ease;
+}

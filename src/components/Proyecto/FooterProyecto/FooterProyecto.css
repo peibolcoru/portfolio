@@ -1,0 +1,10 @@
+.proyecto-header-container h3:hover,
+.proyecto-gitHubLinks a:hover img,
+.proyecto-header-container img:hover,
+.proyecto-gitHubLinks a:hover img,
+.youtubeLink:hover img {
+    cursor: pointer;
+    transform: scale(1.2);
+
+}
+

@@ -1,0 +1,33 @@
+.proyecto-gitHubLinks {
+    color: var(--blue-primary);
+
+    a {
+        color: var(--blue-primary);
+    }
+}
+
+.links-proyecto {
+    margin-top: 20px;
+    ;
+}
+
+.links-proyecto p {
+    text-align: center;
+    margin: 0;
+}
+
+.icons-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.icons-container img {
+    width: 60px;
+    transition: transform 0.3s ease;
+}
+
+.icons-container img.youtube-icon {
+    width: 80px;
+}

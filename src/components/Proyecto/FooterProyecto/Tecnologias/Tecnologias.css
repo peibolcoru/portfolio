@@ -1,0 +1,14 @@
+.tecnologias-proyecto p {
+    text-align: center;
+}
+
+.logos_programacion-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.logos_programacion-container img {
+    width: 40px;
+}
