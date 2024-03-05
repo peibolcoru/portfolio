@@ -1,9 +1,9 @@
 import React from 'react'
-import './MainPages.css';
+import './MainProgPages.css';
 import { Proyecto } from '../Proyecto/Proyecto';
 
 
-export const MainPages = ({contenido}) => {
+export const MainProgPages = ({contenido}) => {
     
   return (
     <div className='proyectos-container'>

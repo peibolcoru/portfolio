@@ -1,14 +1,28 @@
-footer{
+footer {
     font-family: prosto;
+    color: var(--blue-primary);
+}
+
+.ppalFooter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 50px;
+}
+
+.enlaces-general-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.enlaces-general-container a:hover img,
+.curriculum:hover {
     color: var(--pink-primary);
-}
-.curriculum{
-    position: absolute;
-    bottom:0;
-    right:0;
-    margin:30px;
-    font-size: 20px;
-}
-.curriculum:hover{
-    color:var(--blue-primary)
+    cursor: pointer;
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
 }

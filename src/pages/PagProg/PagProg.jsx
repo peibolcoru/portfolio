@@ -1,7 +1,7 @@
 import React from 'react'
 import './PagProgr.css';
 import { HeaderPages } from '../../components/HeaderPages/HeaderPages';
-import { MainPages } from '../../components/MainPages/MainPages';
+import { MainProgPages } from '../../components/MainProgPages/MainProgPages';
 
 import useProyectos from '../../hooks/useProyectos';
 
@@ -14,7 +14,7 @@ export const PagProg = () => {
     <div>
       <HeaderPages title={title}/>
       <hr />
-      <MainPages contenido={proy}/> 
+      <MainProgPages contenido={proy}/> 
     </div>
   )
 }
