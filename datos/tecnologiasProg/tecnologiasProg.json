@@ -1,0 +1,115 @@
+{
+    "lenguajes":[
+        {
+            "id":1,
+            "nombre":"Javascript",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "Simplenotes" , "Portfolio", "BookBuster"],
+            "formacion":["BootCamp HACKA A BOSS" , "Certificación Profesional EF Bussiness School"]
+        },
+        {
+            "id":2,
+            "nombre":"PHP",
+            "descripcion":"",
+            "proyectos":["BookBuster"],
+            "formacion":["Certificación Profesional EF Bussiness School"]
+        },
+        {
+            "id":3,
+            "nombre":"CSS",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "Simplenotes" , "Portfolio", "BookBuster"],
+            "formacion":["BootCamp HACKA A BOSS" , "Certificación Profesional EF Bussiness School"]
+        },
+        {
+            "id":4,
+            "nombre":"Html",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "Simplenotes" , "Portfolio", "BookBuster"],
+            "formacion":["BootCamp HACKA A BOSS" , "Certificación Profesional EF Bussiness School"]
+        },
+        {
+            "id":5,
+            "nombre":"SQL",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "Simplenotes" , "BookBuster"],
+            "formacion":["BootCamp HACKA A BOSS" , "Certificación Profesional EF Bussiness School"]
+        }
+        
+        
+    ],
+    "entornos":[
+        {
+            "id":1,
+            "nombre":"NodeJs",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "Simplenotes"],
+            "formacion":["BootCamp HACKA A BOSS"]
+        }
+    ],
+    "bibliotecas":[
+        {
+            "id":1,
+            "nombre":"React",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "Simplenotes","Portfolio"],
+            "formacion":["BootCamp HACKA A BOSS"]
+        },
+        {
+            "id":2,
+            "nombre":"jQuery",
+            "descripcion":"",
+            "proyectos":["BookBuster"],
+            "formacion":["Certificación Profesional EF Bussiness School"]
+        }
+    ],
+    "servidoresdedesarrollo":[
+        {
+
+            "id":1,
+            "nombre":"Vite",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "Simplenotes"],
+            "formacion":["BootCamp HACKA A BOSS"]
+        }
+    ],
+    "basesdedatos":[
+        {
+            "id":1,
+            "nombre":"MySQL",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "Simplenotes","Portfolio"],
+            "formacion":["BootCamp HACKA A BOSS"]
+        },
+        {
+            "id":2,
+            "nombre":"MariaDB",
+            "descripcion":"",
+            "proyectos":["BookBuster"],
+            "formacion":["Certificación Profesional EF Bussiness School"]
+        },
+        {
+            "id":3,
+            "nombre":"Postman",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "Simplenotes"],
+            "formacion":["BootCamp HACKA A BOSS"]
+        }
+    ],
+    "frameworks":[
+        {
+            "id":1,
+            "nombre":"Bootstrap",
+            "descripcion":"",
+            "proyectos":["Hack a News" , "BookBuster" ],
+            "formacion":["BootCamp HACKA A BOSS","Certificación Profesional EF Bussiness School"]
+        },
+        {
+            "id":1,
+            "nombre":"Material UI",
+            "descripcion":"",
+            "proyectos":["Simplenotes"],
+            "formacion":["BootCamp HACKA A BOSS"]
+        }
+    ]
+}
