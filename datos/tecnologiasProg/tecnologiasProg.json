@@ -5,35 +5,35 @@
             "nombre":"Javascript",
             "descripcion":"",
             "proyectos":["Hack a News" , "Simplenotes" , "Portfolio", "BookBuster"],
-            "formacion":["BootCamp HACKA A BOSS" , "Certificación Profesional EF Bussiness School"]
+            "formacion":["BootCamp HACKA A BOSS" , "Certificación EF Bussiness School"]
         },
         {
             "id":2,
             "nombre":"PHP",
             "descripcion":"",
             "proyectos":["BookBuster"],
-            "formacion":["Certificación Profesional EF Bussiness School"]
+            "formacion":["Certificación EF Bussiness School"]
         },
         {
             "id":3,
             "nombre":"CSS",
             "descripcion":"",
             "proyectos":["Hack a News" , "Simplenotes" , "Portfolio", "BookBuster"],
-            "formacion":["BootCamp HACKA A BOSS" , "Certificación Profesional EF Bussiness School"]
+            "formacion":["BootCamp HACKA A BOSS" , "Certificación EF Bussiness School"]
         },
         {
             "id":4,
             "nombre":"Html",
             "descripcion":"",
             "proyectos":["Hack a News" , "Simplenotes" , "Portfolio", "BookBuster"],
-            "formacion":["BootCamp HACKA A BOSS" , "Certificación Profesional EF Bussiness School"]
+            "formacion":["BootCamp HACKA A BOSS" , "Certificación EF Bussiness School"]
         },
         {
             "id":5,
             "nombre":"SQL",
             "descripcion":"",
             "proyectos":["Hack a News" , "Simplenotes" , "BookBuster"],
-            "formacion":["BootCamp HACKA A BOSS" , "Certificación Profesional EF Bussiness School"]
+            "formacion":["BootCamp HACKA A BOSS" , "Certificación EF Bussiness School"]
         }
         
         
@@ -60,7 +60,7 @@
             "nombre":"jQuery",
             "descripcion":"",
             "proyectos":["BookBuster"],
-            "formacion":["Certificación Profesional EF Bussiness School"]
+            "formacion":["Certificación EF Bussiness School"]
         }
     ],
     "servidoresdedesarrollo":[
@@ -86,7 +86,7 @@
             "nombre":"MariaDB",
             "descripcion":"",
             "proyectos":["BookBuster"],
-            "formacion":["Certificación Profesional EF Bussiness School"]
+            "formacion":["Certificación EF Bussiness School"]
         },
         {
             "id":3,
@@ -102,7 +102,7 @@
             "nombre":"Bootstrap",
             "descripcion":"",
             "proyectos":["Hack a News" , "BookBuster" ],
-            "formacion":["BootCamp HACKA A BOSS","Certificación Profesional EF Bussiness School"]
+            "formacion":["BootCamp HACKA A BOSS","Certificación EF Bussiness School"]
         },
         {
             "id":1,

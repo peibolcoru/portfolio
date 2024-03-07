@@ -1,0 +1,12 @@
+.progTeckContainer h2{
+color:var(--green-primary);
+margin-left: 30px;
+}
+.progTeckContainer hr{
+    border:none;
+    background-color: black;
+    height: 1px;
+    width: 80%;
+    margin: 20px auto;
+
+}

@@ -11,7 +11,7 @@ export const PagProgTecno = () => {
   const {progTechs}=useProgTechs()
   
   return (
-    <div>
+    <div className='pagPpal-Tecno'>
       <HeaderPages title={tecnologias}/>
       <hr />
       <MainProgTecno contenido={progTechs}/>

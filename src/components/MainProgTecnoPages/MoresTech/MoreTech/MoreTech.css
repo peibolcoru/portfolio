@@ -1,0 +1,13 @@
+.moretech-container-tech {
+    display: flex;
+    flex-direction: row; 
+    align-items: center; 
+    flex-wrap: wrap;
+}
+.moretech-container-tech div {
+   margin-left: 20px;
+}
+.moretech-container-tech div p{
+    width: fit-content;
+    flex-wrap: wrap;
+ }

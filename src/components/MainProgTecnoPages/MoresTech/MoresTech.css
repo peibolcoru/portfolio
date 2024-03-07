@@ -1,0 +1,11 @@
+.morestech-container {
+    color: white;
+    display: none;
+}
+
+.morestech-container.display {
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
