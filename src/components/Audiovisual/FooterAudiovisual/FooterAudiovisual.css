@@ -1,0 +1,14 @@
+.footerAudiovisual-container{
+    display:flex;
+    flex-direction: column;
+
+}
+.audiovisual-iconos-container{
+    display: flex;
+    justify-content: center;
+}
+.footerAudiovisual-container p{
+    font-family: quantico;
+    color:white;
+    margin-left: 10px;
+}

@@ -1,0 +1,21 @@
+.mainAudioVisualTecnoPages-container{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+    align-items: flex-start;
+    justify-content: center;
+    margin: auto;
+    margin-top: 40px;
+    width: fit-content;
+}
+.audiovisualTecno-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:20px;
+    
+}
+.audiovisualTecno-container h3{
+    font-family: quantico;
+    color:var(--blue-primary)
+}

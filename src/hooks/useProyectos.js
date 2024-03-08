@@ -17,7 +17,6 @@ const useProyectos = () => {
     cargaProyectos();
   }, []);
 
-
-  return {proyectos}
+  return { proyectos };
 };
-export default useProyectos
+export default useProyectos;

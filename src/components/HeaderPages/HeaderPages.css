@@ -2,11 +2,12 @@
     display: flex;
     width: 100%;
     justify-content: space-between;
+    align-items: center;
     margin-bottom: 20px;
 }
 .title-project{
     color:var(--pink-primary);
-    font-family: prosto;
+    font-family: var(--titulos);
     margin-top: 40px;
 }
 .button-scape{

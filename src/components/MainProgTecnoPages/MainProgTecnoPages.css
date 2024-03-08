@@ -1,6 +1,6 @@
 .progTeckContainer h2{
 color:var(--green-primary);
-margin-left: 30px;
+font-family: var(--titulos);
 }
 .progTeckContainer hr{
     border:none;

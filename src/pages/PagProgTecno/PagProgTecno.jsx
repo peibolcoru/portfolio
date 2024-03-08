@@ -6,7 +6,7 @@ import { MainProgTecno } from '../../components/MainProgTecnoPages/MainProgTecno
 import useProgTechs from '../../hooks/useProgTechs';
 
 export const PagProgTecno = () => {
-  const tecnologias="Tecnologias"
+  const tecnologias="Tecnologia de programación"
 
   const {progTechs}=useProgTechs()
   

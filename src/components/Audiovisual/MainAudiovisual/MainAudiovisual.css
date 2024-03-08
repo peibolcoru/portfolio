@@ -1,0 +1,5 @@
+.audiovisual-descripcion p {
+    color: var(--white-primary);
+    font-family: quantico;
+    margin-bottom: 10px;
+}

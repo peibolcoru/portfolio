@@ -24,3 +24,7 @@
 .menuCrea-container li:hover {
     color: var(--blue-primary)
 }
+.navlink-custom{
+    text-decoration: none;
+    color: inherit;
+}

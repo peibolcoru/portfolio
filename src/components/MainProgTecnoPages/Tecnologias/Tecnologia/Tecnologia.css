@@ -3,6 +3,7 @@
     flex-direction: column;
     align-items: center;
     gap: 5px;
+    font-family: var(--textos-retro);
 }
 
 .lenguaje-container img {

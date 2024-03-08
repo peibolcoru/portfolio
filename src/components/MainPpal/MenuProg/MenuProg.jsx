@@ -12,7 +12,7 @@ export const MenuProg = ({display}) => {
         <li>
           <NavLink to="/programacion" className="navlink-custom">últimos proyectos</NavLink>
         </li>
-        <li><NavLink to="progtecno" className="navlink-custom">tecnologias</NavLink></li>
+        <li><NavLink to="/progtecno" className="navlink-custom">tecnologias</NavLink></li>
       </ul>
     </div>
   );

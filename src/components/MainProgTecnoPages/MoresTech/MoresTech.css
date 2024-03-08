@@ -1,6 +1,7 @@
 .morestech-container {
     color: white;
     display: none;
+    font-family: var(--textos-retro);
 }
 
 .morestech-container.display {
