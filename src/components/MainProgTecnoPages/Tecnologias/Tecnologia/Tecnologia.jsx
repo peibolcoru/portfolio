@@ -14,7 +14,7 @@ export const Tecnologia = ({ contenido,setDisplay }) => {
     <div className={`lenguaje-container ${selectIcon}`} onClick={handleClick}>
       
       <h3 >{contenido.nombre}</h3>
-      <img  src={`/public/iconos/tecnologias/${contenido.nombre}.svg`} alt="" /> 
+      <img  src={`../../../../../public/iconos/tecnologias/${contenido.nombre}.svg`} alt="" /> 
       
     </div>
   );
