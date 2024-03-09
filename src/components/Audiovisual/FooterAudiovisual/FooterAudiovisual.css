@@ -8,7 +8,7 @@
     justify-content: center;
 }
 .footerAudiovisual-container p{
-    font-family: quantico;
+    font-family: var(--textos-retro);
     color:white;
     margin-left: 10px;
 }

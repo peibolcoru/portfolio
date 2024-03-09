@@ -5,7 +5,7 @@ const useProgTechs = () => {
 
   const cargaProgTechs = async () => {
     try {
-      const res = await fetch(`../../datos/tecnologiasProg/tecnologiasProg.json`);
+      const res = await fetch(`/datos/tecnologiasProg/tecnologiasProg.json`);
       const json = await res.json();
       setProgTechs(json);
     } catch (error) {

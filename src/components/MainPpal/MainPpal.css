@@ -1,5 +1,5 @@
 main {
-    font-family: prosto;
+    font-family: var(--titulos);
     color: var(--pink-primary);
     display: flex;
     flex-direction: column;

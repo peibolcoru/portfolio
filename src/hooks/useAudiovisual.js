@@ -4,7 +4,7 @@ export const useAudiovisual = () => {
   const [audiovisuales, setAudioVisuales] = useState();
   const cargaAudiovisuales = async () => {
     try {
-      const res = await fetch('../../datos/audiovisual/audiovisual.json');
+      const res = await fetch('/datos/audiovisual/audiovisual.json');
       const json = await res.json();
       setAudioVisuales(json);
     } catch (error) {

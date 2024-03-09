@@ -5,7 +5,7 @@ const useProyectos = () => {
 
   const cargaProyectos = async () => {
     try {
-      const res = await fetch(`../../datos/proyectos/proyectos.json`);
+      const res = await fetch(`/datos/proyectos/proyectos.json`);
       const json = await res.json();
       setProyectos(json);
     } catch (error) {

@@ -1,5 +1,5 @@
 .audiovisual-descripcion p {
     color: var(--white-primary);
-    font-family: quantico;
+    font-family:var(--textos-retro);
     margin-bottom: 10px;
 }

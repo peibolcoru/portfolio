@@ -16,6 +16,6 @@
     
 }
 .audiovisualTecno-container h3{
-    font-family: quantico;
+    font-family: var(--textos-retro);
     color:var(--blue-primary)
 }

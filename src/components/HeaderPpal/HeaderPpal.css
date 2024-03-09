@@ -1,7 +1,7 @@
 .header-container {
     display: flex;
     flex-direction: column;
-    font-family: quantico;
+    font-family: var(--textos-retro);
     color:white;
     font-size: 20px;
 }

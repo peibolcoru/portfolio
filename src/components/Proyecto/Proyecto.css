@@ -1,12 +1,12 @@
 .proyecto-container h3 {
     color: var(--green-primary);
     font-size: 30px;
-    font-family: quantico;
+    font-family: var(--textos-retro);
     margin-bottom: 15px;
 }
 
 .proyecto-container p {
     color: var(--white-primary);
-    font-family: quantico;
+    font-family:var(--textos-retro);
     margin-bottom: 10px;
 }

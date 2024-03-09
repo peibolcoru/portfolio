@@ -1,0 +1,30 @@
+{
+    "proyectos":[
+        {
+            "id":1,
+            "nombre": "Hack a News",
+            "logo": "https://i.imgur.com/XfrhEPp.png",
+            "descripcion": ["Proyecto para la optención del Certificado del BootCamp de Hack a Boss.","Implementar una API que permita gestionar noticias colaborativas, donde los usuarios puedan registrarse y publicar una noticia en una serie de categorías temáticas fijas."],
+            "fecha_inicio": "2023-09-01",
+            "fecha_fin": "2024-10-15",
+            "creador": "Pablo Ferreño, Ignacio Cortés , Lucia Aguirre, Leona Rodriguez",
+            "link_aplicacion":"https://hackanews.ferreno.es/",
+            "Github":["https://github.com/peibolcoru/hackanewsBackend","https://github.com/peibolcoru/hackanewsFront"],
+            "Youtube_link":"https://www.youtube.com/watch?v=lbqpaV8BXnU&t=17s",
+            "logos_programacion": ["javascript","react","node","mysql","html","css"]
+        },
+        {
+            "id":2,
+            "nombre": "Hack a News",
+            "logo": "https://i.imgur.com/XfrhEPp.png",
+            "descripcion": ["Proyecto para la optención del Certificado del BootCamp de Hack a Boss.","Implementar una API que permita gestionar noticias colaborativas, donde los usuarios puedan registrarse y publicar una noticia en una serie de categorías temáticas fijas."],
+            "fecha_inicio": "2023-09-01",
+            "fecha_fin": "2024-10-15",
+            "creador": "Pablo Ferreño, Ignacio Cortés , Lucia Aguirre, Leona Rodriguez",
+            "link_aplicacion":"https://hackanews.ferreno.es/",
+            "Github":["https://github.com/peibolcoru/hackanewsBackend","https://github.com/peibolcoru/hackanewsFront"],
+            "Youtube_link":"https://www.youtube.com/watch?v=lbqpaV8BXnU&t=17s",
+            "logos_programacion": ["javascript","react","node","mysql","html","css"]
+        }
+    ]
+}

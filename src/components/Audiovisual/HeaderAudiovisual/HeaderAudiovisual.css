@@ -1,7 +1,7 @@
 .audiovisual-header-container a h3 {
     color: var(--green-primary);
     font-size: 20px;
-    font-family: quantico;
+    font-family: var(--textos-retro);
     margin-bottom: 15px;
     transition: transform 0.2s;
     width: fit-content;
