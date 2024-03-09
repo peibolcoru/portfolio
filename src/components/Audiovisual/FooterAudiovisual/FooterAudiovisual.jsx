@@ -7,7 +7,7 @@ export const FooterAudiovisual = ({contenido}) => {
       <p>tecnologías:</p>
       <div className='audiovisual-iconos-container'>
         {contenido.programas.map((programa)=>(
-            <img src={`../../../../public/iconos/audiovisuales/${programa}.svg`} alt="" />
+            <img src={`/public/iconos/audiovisuales/${programa}.svg`} alt="" />
         ))}
       </div>
         
