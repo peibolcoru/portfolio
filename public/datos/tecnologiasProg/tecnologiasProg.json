@@ -106,7 +106,7 @@
         },
         {
             "id":1,
-            "nombre":"Material UI",
+            "nombre":"Material",
             "descripcion":"",
             "proyectos":["Simplenotes"],
             "formacion":["BootCamp HACKA A BOSS"]

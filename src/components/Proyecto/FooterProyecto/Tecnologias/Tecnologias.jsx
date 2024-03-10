@@ -7,7 +7,7 @@ import css from '../../../../assets/iconos/tecnologias/css.svg';
 import html from '../../../../assets/iconos/tecnologias/html.svg';
 import javascript from '../../../../assets/iconos/tecnologias/javascript.svg';
 import mysql from '../../../../assets/iconos/tecnologias/mysql.svg';
-import node from '../../../../assets/iconos/tecnologias/node.svg';
+import node from '../../../../assets/iconos/tecnologias/nodejs.svg';
 import react from '../../../../assets/iconos/tecnologias/react.svg';
 
 export const Tecnologias = ({ proyecto }) => {
