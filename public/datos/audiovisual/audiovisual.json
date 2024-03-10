@@ -8,7 +8,7 @@
             "creador": "Pablo Ferreño",
             "link_youtube":"https://youtu.be/H2tKtYaxnp4",
             "video_id_youtube":"H2tKtYaxnp4",
-            "programas": ["final-cut","after-effects"]
+            "programas": ["finalcut","aftereffects"]
         },
         {
             "id":2,
@@ -17,7 +17,7 @@
             "fecha": "2022",
             "creador": "Pablo Ferreño",
             "video_id_youtube":"KvxB3kgg7Os",
-            "programas": ["final-cut","after-effects"]
+            "programas": ["finalcut","aftereffects"]
         },
         {
             "id":3,
@@ -26,7 +26,7 @@
             "fecha": "2022",
             "creador": "Pablo Ferreño",
             "video_id_youtube":"tezuLr2GqpE",
-            "programas": ["adobe-premiere","after-effects"]
+            "programas": ["premiere","aftereffects"]
         },
         {
             "id":4,
@@ -35,7 +35,7 @@
             "fecha": "2022",
             "creador": "Pablo Ferreño",
             "video_id_youtube":"Lpl8IeqYhlo",
-            "programas": ["adobe-premiere","after-effects"]
+            "programas": ["premiere","aftereffects"]
         },
         {
             "id":5,
@@ -44,7 +44,7 @@
             "fecha": "2022",
             "creador": "Pablo Ferreño",
             "video_id_youtube":"Dkzl0kG-nrQ",
-            "programas": ["adobe-premiere","after-effects"]
+            "programas": ["premiere","aftereffects"]
         }
     ]
 }
