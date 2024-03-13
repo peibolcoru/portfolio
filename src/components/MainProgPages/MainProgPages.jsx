@@ -4,7 +4,6 @@ import { Proyecto } from '../Proyecto/Proyecto';
 
 
 export const MainProgPages = ({contenido}) => {
-    
   return (
     <div className='proyectos-container'>
         {

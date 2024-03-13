@@ -1,0 +1,42 @@
+{
+  "estudios": [
+    {
+      "id": 1,
+      "nombre": "Ciclo Superior en Sistemas de Regulación y Control Automático",
+      "años": "2000-2002",
+      "centro": "IES Urbano Lugris",
+      "contenido": [""],
+      "logo":"xunta",
+      "link_centro":"http://www.edu.xunta.gal/centros/iesurbanolugris/"
+    },
+    {
+      "id": 2,
+      "nombre": "Certificacion de Programación Web Full Stack HACK A BOSS",
+      "años": "2023 Julio - 2023 Noviembre",
+      "centro": "HACK A BOSS",
+      "contenido": [
+        "- Módulo 1. Layout: Html y Css.",
+        "- Módulo 2. Javascript.",
+        "- Módulo 3. Backend: SQL, Node, Postman.",
+        "- Módulo 4. Frontend: React.",
+        "Proyecto final: Hack a News."
+      ],
+      "logo":"hackaboss",
+      "link_centro":"https://www.hackaboss.com/"
+    },
+    {
+      "id": 3,
+      "nombre": "Certificación de programación con lenguajes orientados a objetos y bases de datos relacionales ",
+      "años": "2022 Noviembre - 2023 Junio",
+      "centro": "EFFUTURE. Oleiros.",
+      "contenido": [
+        "- Definición, diseño y manipulación de Bases de Datos y desarrollo de programas en dicho entorno.",
+        "- SQl, Html, CSS, Javascript, JQuery, PHP.",
+        "- Proyecto final: BookBuster.",
+        "Prácticas: Grupo Firmatel S.L. (A Coruña)."
+      ],
+      "logo":"effuture",
+      "link_centro":"https://efbs.edu.es/"
+    }
+  ]
+}

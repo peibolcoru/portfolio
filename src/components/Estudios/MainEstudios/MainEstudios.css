@@ -1,0 +1,10 @@
+.estudio-descripcion {
+    display: block;
+    font-family: var(--textos-retro);
+    color:white;
+    width: fit-content;
+    margin-right: 20px;
+}
+.estudio-descripcion ul{
+    margin-bottom:5px ;
+}
