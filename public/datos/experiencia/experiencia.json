@@ -1,0 +1,47 @@
+{
+  "experiencia": [
+    {
+      "id": 1,
+      "nombre": "Creación de Contenidos Audiovisuales",
+      "años": "2010-actualidad. A Coruña",
+      "centro": "Trabajador Independiente",
+      "contenido": ["- Grabación y edición de contenido social. Tragaluz Fotografia.","- Realización de videos publicitarios para empresas, actividades deportivas y espectáculos musicales."] ,
+      "logo":"",
+      "link_centro":""
+    },{
+      "id": 2,
+      "nombre": "ALCOA / ALUIBÉRICA",
+      "años": "2015 - 2022. A Coruña.",
+      "centro": "Operador de Planta.",
+      "contenido": ["- Departamentos de Electrolisis y Fundición para la fabricación de aluminio."] ,
+      "logo":"alcoa",
+      "link_centro":"https://www.alcoa.com/spain/es"
+    },{
+      "id": 3,
+      "nombre": "OCA ICP. Organismo de inspección, control y prevención",
+      "años": "2013 - 2015. A Coruña.",
+      "centro": "Inspector.",
+      "contenido": ["- Inspección y control de calidad a inspectores y personal de mantenimiento de instalaciones de gas e instalaciones eléctricas."] ,
+      "logo":"oca_icp",
+      "link_centro":""
+    },
+    {
+      "id": 4,
+      "nombre": "ALCOA",
+      "años": "2010 - 2012. A Coruña.",
+      "centro": "IOperador de Planta.",
+      "contenido": ["- Departamentos de Electrolisis para la fabricación de aluminio."] ,
+      "logo":"alcoa",
+      "link_centro":"https://www.alcoa.com/spain/es"
+    },
+    {
+      "id": 5,
+      "nombre": "SGS - ICISA",
+      "años": "2002 - 2009. A Coruña.",
+      "centro": "Inspector.",
+      "contenido": ["- Inspección, control de calidad y adecuación de instalaciones de gas natural..","- Control de calidad de tramos eólicos."] ,
+      "logo":"sgs",
+      "link_centro":"https://www.sgs.com/es-es"
+    }
+  ]
+}

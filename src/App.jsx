@@ -8,6 +8,8 @@ import { PagProgTecno } from './pages/PagProgTecno/PagProgTecno'
 import { PagAudiovisual } from './pages/PagAudiovisual/PagAudiovisual'
 import { PagAudiovisualTecno } from './pages/PagAudiovisualTecno/PagAudiovisualTecno'
 import { PagEstudios } from './pages/PagEstudios/PagEstudios'
+import { PagExperiencia } from './pages/PagExpriencia/PagExperiencia'
+import { PagHistoria } from './pages/PagHistoria/PagHistoria'
 
 function App() {
 
@@ -20,6 +22,8 @@ function App() {
           <Route path="/audiovisual" element={<PagAudiovisual/>}/>
           <Route path="/audiovisualtecno" element={<PagAudiovisualTecno/>}/>
           <Route path="/estudios" element={<PagEstudios/>}/>
+          <Route path="/experiencia" element={<PagExperiencia/>}/>
+          <Route path="/mihistoria" element={<PagHistoria/>}/>
         </Routes>
     </div>
   )

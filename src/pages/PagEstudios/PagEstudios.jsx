@@ -3,7 +3,7 @@ import './PagEstudios.css';
 import { HeaderPages } from '../../components/HeaderPages/HeaderPages';
 
 import useEstudios from '../../hooks/useEstudios';
-import { MainEstudiosPages } from '../../components/MainEstudiosPages/MainEstudiosPages';
+import { MainEstudiosExpPages } from '../../components/MainEstudiosPagesExp/MainEstudiosExpPages';
 
 export const PagEstudios = () => {
     const {estudios} = useEstudios();
@@ -13,7 +13,7 @@ export const PagEstudios = () => {
     <div>
       <HeaderPages title={'estudios y formación'} />
       <hr />
-     <MainEstudiosPages estudios={formacion}/>
+     <MainEstudiosExpPages estudiosExp={formacion}/>
     </div>
   );
 };
