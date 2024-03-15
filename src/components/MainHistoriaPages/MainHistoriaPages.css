@@ -21,3 +21,11 @@ section{
         padding-left: 20px;
     }
 }
+.historia-container img{
+    width:100px;
+    border-radius: 10px;
+}
+.inicio-foto-container{
+    display: flex;
+    flex-direction: row;
+}
