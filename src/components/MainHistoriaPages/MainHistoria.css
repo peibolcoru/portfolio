@@ -4,3 +4,20 @@
     color: var(--white-primary);
     margin-top: 20px;
 }
+#titulo-historia{
+    color: var(--pink-primary);
+}
+.historia-container h3{
+    color: var(--green-primary)
+}
+section{
+    margin:10px 10px;
+}
+.historia-container p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-indent: 20px;
+    .tab{
+        padding-left: 20px;
+    }
+}
