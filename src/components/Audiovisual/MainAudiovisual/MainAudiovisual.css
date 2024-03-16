@@ -1,5 +1,13 @@
+.audiovisual-descripcion{
+    display: flex;
+    flex-direction: column;
+}
 .audiovisual-descripcion p {
     color: var(--white-primary);
     font-family:var(--textos-retro);
     margin-bottom: 10px;
+}
+iframe{
+    margin:0 auto;
+    border-radius: 10px;
 }

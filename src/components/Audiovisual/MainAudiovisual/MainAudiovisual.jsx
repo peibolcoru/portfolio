@@ -15,7 +15,7 @@ export const MainAudiovisual = ({ contenido }) => {
             src={`https://www.youtube.com/embed/${contenido.video_id_youtube}`}
             title='YouTube video player'
             frameborder='0'
-            allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
+            allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen'
             allowfullscreen
           ></iframe>
     </div>
