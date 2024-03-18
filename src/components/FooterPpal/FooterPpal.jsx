@@ -11,7 +11,7 @@ export const FooterPpal = () => {
     }
     
   return (
-
+    
     <footer className='ppalFooter-container'>
       <div className='enlaces-general-container'>
         <a href='https://www.linkedin.com/in/pablo-ferreno-veiga/' target='_blank'
@@ -27,7 +27,7 @@ export const FooterPpal = () => {
           <img src={youtubeIcon} alt='youtube' />
         </a>
       </div>
-      <div className='curriculum' onClick={handleCurriculum}>curriculum</div>
+      <a  href='../../../public/PabloFerreñoVeigaTech.pdf'>curriculum</a>
     </footer>
   );
 };
