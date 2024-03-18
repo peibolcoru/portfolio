@@ -18,6 +18,10 @@ footer {
     gap: 10px;
 
 }
+.curriculum{
+    text-decoration: none;
+    color:inherit
+}
 
 .enlaces-general-container a:hover img,
 .curriculum:hover {
