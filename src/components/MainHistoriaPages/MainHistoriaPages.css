@@ -24,7 +24,7 @@ section {
     align-items: center;
 
 }
-.historia-container p {
+.inicio-foto-container p {
     margin-top: 10px;
     margin-bottom: 10px;
     text-indent: 20px;
@@ -34,8 +34,8 @@ section {
     }
 }
 
-.historia-container img {
+.inicio-foto-container img {
     border-radius: 10px;
     width: 100px;
-    height: fit-content;
+    height: auto;
 }

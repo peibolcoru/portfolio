@@ -1,4 +1,3 @@
-import React from 'react';
 import './MainHistoriaPages.css';
 import foto from '../../assets/foto.webp';
 
