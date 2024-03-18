@@ -14,7 +14,6 @@ export const Proyecto = ({ proyecto }) => {
       <HeaderProyecto proyecto={proyecto}/>
       <MainProyecto proyecto={proyecto}/>
       <FooterProyecto proyecto={proyecto}/>
-      
     </div>
   );
 };

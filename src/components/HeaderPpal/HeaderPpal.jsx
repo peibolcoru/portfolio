@@ -13,6 +13,7 @@ export const HeaderPpal = () => {
             "La formación y la creatividad son los pilares fundamentales del
             desarrollo personal y profesional."
           </p>
+          <p className='puesto'>DESARROLLADOR WEB JUNIOR Y CREADOR AUDIOVISUAL</p>
         </div>
       </header>
   )

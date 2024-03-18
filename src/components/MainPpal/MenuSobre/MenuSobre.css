@@ -1,21 +1,29 @@
-
-.menuSobre-container li{
+.menuSobre-container li {
     font-size: 20px;
-    margin-left:60px;
+    margin-left: 60px;
     margin-bottom: 10px;
     text-align: right;
 }
-.menuSobre-container{
+
+.menuSobre-container {
     max-height: 200px;
-    overflow: hidden; 
+    overflow: hidden;
     opacity: 1;
     transition: max-height 0.6s ease-in-out, opacity 0.2s ease-in-out;
 }
-.menuSobre-container.close{
+
+.menuSobre-container.close {
     max-height: 20px;
-    opacity:0;
+    opacity: 0;
     overflow: hidden;
 }
+
 .menuSobre-container li:hover {
     color: var(--blue-primary)
+}
+
+@media (min-width:600px) {
+    .menuSobre-container li {
+        font-size: 2vw
+    }
 }

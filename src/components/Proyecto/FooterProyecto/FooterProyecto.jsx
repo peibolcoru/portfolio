@@ -6,7 +6,7 @@ import { Tecnologias } from './Tecnologias/Tecnologias';
 
 export const FooterProyecto = ({ proyecto }) => {
   return (
-    <div>
+    <div className='links-container'>
       <Enlaces proyecto={proyecto} />
       <Tecnologias proyecto={proyecto} />
     </div>

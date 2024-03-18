@@ -8,3 +8,11 @@
 
 }
 
+@media (min-width:600px) {
+    .links-container{
+        width:fit-content;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+}
+}

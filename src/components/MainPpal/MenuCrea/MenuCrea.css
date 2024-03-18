@@ -28,3 +28,7 @@
     text-decoration: none;
     color: inherit;
 }
+
+@media (min-width:600px) {
+    .menuCrea-container li{font-size:2vw} 
+}
