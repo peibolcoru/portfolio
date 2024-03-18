@@ -23,7 +23,7 @@ export const FooterPpal = () => {
           <img src={youtubeIcon} alt='youtube' />
         </a>
       </div>
-      <a  href='public/curriculum.jpg'>curriculum</a>
+      <a  href='https://drive.google.com/file/d/1XVa4ArfB19PfSl-1yXhNqX9R9MuDwxGu/view?usp=drivesdk'>curriculum</a>
     </footer>
   );
 };
