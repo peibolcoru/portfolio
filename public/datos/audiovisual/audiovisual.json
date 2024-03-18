@@ -16,6 +16,7 @@
             "descripcion": ["Video promocional para redes sociales del Festival Flores Rock."],
             "fecha": "2022",
             "creador": "Pablo Ferreño",
+            "link_youtube":"https://www.youtube.com/watch?v=KvxB3kgg7Os",
             "video_id_youtube":"KvxB3kgg7Os",
             "programas": ["finalcut","aftereffects"]
         },
@@ -25,6 +26,7 @@
             "descripcion": ["Video Promocional para el Festival Flores Rock paras las pantallas del Estadio de Riazor."],
             "fecha": "2022",
             "creador": "Pablo Ferreño",
+            "link_youtube":"https://www.youtube.com/watch?v=tezuLr2GqpE",
             "video_id_youtube":"tezuLr2GqpE",
             "programas": ["premiere","aftereffects"]
         },
@@ -34,6 +36,7 @@
             "descripcion": ["Video Promocional del Festival 'Flores Rock' edición 2022."],
             "fecha": "2022",
             "creador": "Pablo Ferreño",
+            "link_youtube":"https://www.youtube.com/watch?v=Lpl8IeqYhlo",
             "video_id_youtube":"Lpl8IeqYhlo",
             "programas": ["premiere","aftereffects"]
         },
@@ -43,6 +46,7 @@
             "descripcion": ["Anuncio creado para la visualización en las pantallas del Estadio de Riazor (2022).","Montaje, Edición y Grabación: Pablo Ferreño."],
             "fecha": "2022",
             "creador": "Pablo Ferreño",
+            "link_youtube":"https://www.youtube.com/watch?v=Dkzl0kG-nrQ",
             "video_id_youtube":"Dkzl0kG-nrQ",
             "programas": ["premiere","aftereffects"]
         }

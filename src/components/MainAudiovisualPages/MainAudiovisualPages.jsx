@@ -7,7 +7,7 @@ export const MainAudiovisualPages = ({contenido}) => {
     <div className='audiovisuales-container'>
       {
         contenido && contenido.map((item)=>(
-          <div  key={item.id} >
+          <div key={item.id} >
              <Audiovisual contenido={item}/>
           <hr />
           </div>

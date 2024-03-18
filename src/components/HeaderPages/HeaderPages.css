@@ -16,4 +16,14 @@
     border-radius: 5px;
     padding: 5px;
     margin-bottom: 40px;
+    width: fit-content;
+}
+
+@media (min-width:600px){
+    .title-project{
+        font-size: 30px;
+    }
+    .button-scape{
+        font-size: 20px;
+    }
 }

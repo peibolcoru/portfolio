@@ -10,3 +10,8 @@
 .audiovisual-header-container a h3:hover {
     transform: scale(1.1);
 }
+@media (min-width:600px){
+    .audiovisual-header-container a h3{
+        font-size: 1.5rem;
+    }
+}

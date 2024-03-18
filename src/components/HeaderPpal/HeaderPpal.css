@@ -26,6 +26,12 @@ p.puesto{
 
 }
 
+@media (min-width:600px){
+    h2.name,h2.flash{
+        font-size:1.5rem;
+    }
+}
+
 .flash {
     animation: flash 500ms ease infinite alternate;
   }
