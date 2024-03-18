@@ -1,13 +1,14 @@
-.proyectos-container{
+.proyectos-container {
     margin-top: 20px;
 }
+
 @media (min-width:600px) {
-    .proyectos-container{
-        display: flex;
-        flex-direction: column;
+    .proyectos-container {
+        width: 60%;
+        margin: auto;
     }
-    .proyectos-container hr{
-        margin:20px 140px
-;min-width: 900px;
+
+    .proyectos-container hr {
+        margin: 20px 20px
     }
 }
