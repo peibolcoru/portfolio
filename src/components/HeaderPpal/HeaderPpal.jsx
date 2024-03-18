@@ -1,4 +1,4 @@
-import React from 'react'
+
 import "./HeaderPpal.css"
 
 export const HeaderPpal = () => {
