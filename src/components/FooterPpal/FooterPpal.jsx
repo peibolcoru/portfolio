@@ -6,10 +6,6 @@ import linkedinIcon from '../../assets/iconos/icons8-linkedin.svg';
 import githubIcon from '../../assets/iconos/icons-github.svg';
 export const FooterPpal = () => {
   
-  const handleCurriculum = ()=>{
-      window.open('../../../public/Pablo Ferreño Veiga tech.pdf', '_blamk')
-    }
-    
   return (
     
     <footer className='ppalFooter-container'>
@@ -27,7 +23,7 @@ export const FooterPpal = () => {
           <img src={youtubeIcon} alt='youtube' />
         </a>
       </div>
-      <a  href='../../../public/PabloFerreñoVeigaTech.pdf'>curriculum</a>
+      <a  href='public/curriculum.jpg'>curriculum</a>
     </footer>
   );
 };
