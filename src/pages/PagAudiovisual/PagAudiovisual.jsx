@@ -1,4 +1,3 @@
-import React from 'react';
 import './PagAudiovisual.css';
 import { HeaderPages } from '../../components/HeaderPages/HeaderPages';
 import { MainAudiovisualPages } from '../../components/MainAudiovisualPages/MainAudiovisualPages';

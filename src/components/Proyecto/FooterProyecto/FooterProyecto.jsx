@@ -1,4 +1,3 @@
-import React from 'react';
 import './FooterProyecto.css';
 
 import { Enlaces } from './Enlaces/Enlaces';

@@ -1,4 +1,3 @@
-import React from 'react';
 import './MenuSobre.css';
 import { NavLink } from 'react-router-dom';
 

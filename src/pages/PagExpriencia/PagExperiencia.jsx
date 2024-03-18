@@ -1,4 +1,3 @@
-import React from 'react';
 import './PagExperiencia.css';
 import { HeaderPages } from '../../components/HeaderPages/HeaderPages';
 import useExperiencia from '../../hooks/useExperiencia';

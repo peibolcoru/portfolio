@@ -1,4 +1,3 @@
-import React from 'react'
 import './PagProgTecno.css';
 
 import { HeaderPages } from '../../components/HeaderPages/HeaderPages';

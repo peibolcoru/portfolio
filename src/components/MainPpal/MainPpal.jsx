@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import './MainPpal.css';
 import { MenuProg } from './MenuProg/MenuProg';
 import { MenuCrea } from './MenuCrea/MenuCrea';

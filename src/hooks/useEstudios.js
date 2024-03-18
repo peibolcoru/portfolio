@@ -17,7 +17,6 @@ const useEstudios = () => {
     cargaEstudios();
 
   }, []);
-  console.log(estudios)
   return {estudios};
 };
 

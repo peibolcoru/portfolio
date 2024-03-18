@@ -1,4 +1,3 @@
-import React from 'react';
 import './MenuProg.css';
 import { NavLink } from 'react-router-dom';
 

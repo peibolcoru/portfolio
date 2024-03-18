@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import './MainProgTecnoPages.css';
 import { Tecnologias } from './Tecnologias/Tecnologias';
 import { MoresTech } from './MoresTech/MoresTech.jsx';
@@ -6,7 +5,7 @@ import { MoresTech } from './MoresTech/MoresTech.jsx';
 export const MainProgTecno = ({ contenido }) => {
   const [display, setDisplay] = useState('');
 
-  console.log(display);
+  
   return (
     <div className='progTeckContainer'>
       <h2>lenguajes</h2>

@@ -1,5 +1,5 @@
-import React from 'react';
 import './FooterAudiovisual.css';
+import { v4 as uuidv4 } from 'uuid';
 
 import premiere from '../../../assets/iconos/audiovisuales/adobe-premiere.svg';
 import aftereffects from '../../../assets/iconos/audiovisuales/after-effects.svg';
@@ -19,7 +19,7 @@ export const FooterAudiovisual = ({ contenido }) => {
       <p>tecnologías:</p>
       <div className='audiovisual-iconos-container'>
         {contenido.programas.map((programa) => (
-          <img src={tecnologias[programa]} alt='' />
+          <img src={tecnologias[programa]} key={uuidv4()} alt='' />
         ))}
       </div>
     </div>

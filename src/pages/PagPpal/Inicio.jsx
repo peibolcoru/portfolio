@@ -1,4 +1,3 @@
-
 import './Inicio.css';
 import { HeaderPpal } from '../../components/HeaderPpal/HeaderPpal';
 import { FooterPpal } from '../../components/FooterPpal/FooterPpal';

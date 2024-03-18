@@ -1,4 +1,3 @@
-import React from 'react'
 import './MainProgPages.css';
 import { Proyecto } from '../Proyecto/Proyecto';
 

@@ -27,7 +27,7 @@
             "logos_programacion": ["javascript","react","node","mysql","html","css"]
         },
         {
-            "id":2,
+            "id":3,
             "nombre": "Bookbuster",
             "logo": "https://i.imgur.com/YeLD2vm.png",
             "descripcion": ["Biblioteca virtual de prestamos de libros para el centro Ef Business School.","Proyecto en equipo para la obtención de la Certificación de Programación orientada a objetos y bases de datos relacionales."],

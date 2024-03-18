@@ -1,4 +1,3 @@
-
 import './PagEstudios.css';
 import { HeaderPages } from '../../components/HeaderPages/HeaderPages';
 

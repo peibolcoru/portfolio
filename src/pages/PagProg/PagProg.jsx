@@ -1,4 +1,3 @@
-import React from 'react'
 import './PagProgr.css';
 import { HeaderPages } from '../../components/HeaderPages/HeaderPages';
 import { MainProgPages } from '../../components/MainProgPages/MainProgPages';

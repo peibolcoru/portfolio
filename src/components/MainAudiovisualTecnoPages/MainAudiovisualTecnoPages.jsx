@@ -1,4 +1,3 @@
-import React from 'react';
 import './MainAudiovisualTecnoPages.css';
 
 import premiere from '../../assets/iconos/audiovisuales/adobe-premiere.svg'

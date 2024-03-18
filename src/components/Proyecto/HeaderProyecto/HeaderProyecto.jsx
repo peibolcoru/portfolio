@@ -1,5 +1,5 @@
-import React from 'react'
 import './HeaderProyecto.css';
+
 export const HeaderProyecto = ({proyecto}) => {
   return (
     <a

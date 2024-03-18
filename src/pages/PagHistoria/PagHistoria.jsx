@@ -1,4 +1,3 @@
-
 import './PagHistoria.css';
 import { HeaderPages } from '../../components/HeaderPages/HeaderPages';
 import { MainHistoriaPages } from '../../components/MainHistoriaPages/MainHistoriaPages';

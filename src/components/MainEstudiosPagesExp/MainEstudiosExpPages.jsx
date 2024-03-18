@@ -1,4 +1,3 @@
-import React from 'react';
 import './MainEstudiosPagesExp.css';
 import { EstudiosExp } from '../EstudiosExp/EstudiosExp';
 

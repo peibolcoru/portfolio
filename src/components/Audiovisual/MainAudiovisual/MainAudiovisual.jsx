@@ -1,4 +1,3 @@
-import React from 'react';
 import './MainAudiovisual.css';
 import { v4 as uuidv4 } from 'uuid';
 
@@ -14,9 +13,8 @@ export const MainAudiovisual = ({ contenido }) => {
        <iframe
             src={`https://www.youtube.com/embed/${contenido.video_id_youtube}`}
             title='YouTube video player'
-            frameborder='0'
+            frameBorder='0'
             allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen'
-            allowfullscreen
           ></iframe>
     </div>
   );
