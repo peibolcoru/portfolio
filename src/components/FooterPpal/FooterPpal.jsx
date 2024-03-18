@@ -5,7 +5,13 @@ import youtubeIcon from '../../assets/iconos/icons8-youtube2.svg';
 import linkedinIcon from '../../assets/iconos/icons8-linkedin.svg';
 import githubIcon from '../../assets/iconos/icons-github.svg';
 export const FooterPpal = () => {
+  
+  const handleCurriculum = ()=>{
+      window.open('../../../public/Pablo Ferreño Veiga tech.pdf', '_blamk')
+    }
+    
   return (
+
     <footer className='ppalFooter-container'>
       <div className='enlaces-general-container'>
         <a href='https://www.linkedin.com/in/pablo-ferreno-veiga/' target='_blank'
@@ -21,7 +27,7 @@ export const FooterPpal = () => {
           <img src={youtubeIcon} alt='youtube' />
         </a>
       </div>
-      <div className='curriculum'>curriculum</div>
+      <div className='curriculum' onClick={handleCurriculum}>curriculum</div>
     </footer>
   );
 };
