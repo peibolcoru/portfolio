@@ -19,7 +19,7 @@ p.cita{
 }
 p.puesto{
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
     padding-bottom: 20px;
     color: var(--green-primary);
     border-bottom: 1px solid black;
@@ -30,6 +30,8 @@ p.puesto{
     h2.name,h2.flash{
         font-size:1.5rem;
     }
+    p.puesto{
+        font-size: 18px;
 }
 
 .flash {
