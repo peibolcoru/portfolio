@@ -11,7 +11,7 @@ export const MainHistoriaPages = () => {
 
         <section className='inicio-foto-container'>
           <p>
-            Mi trayectoria profesional ha sido un viaje diverso y emocionante,
+          <span className='tab'></span>Mi trayectoria profesional ha sido un viaje diverso y emocionante,
             marcado por giros inesperados y la búsqueda constante de crecimiento
             personal y profesional. 
           </p>
@@ -20,7 +20,7 @@ export const MainHistoriaPages = () => {
         <section>
           <h3>Inicios en el Mundo Industrial</h3>
           <p>
-            Desde una edad temprana, me sumergí en el mundo industrial, donde
+          <span className='tab'></span>Desde una edad temprana, me sumergí en el mundo industrial, donde
             pasé la mayor parte de mi vida laboral. Durante estos años,
             desempeñé roles clave en el control de calidad y la inspección de
             instalaciones. <br />
@@ -32,7 +32,7 @@ export const MainHistoriaPages = () => {
         <section>
           <h3>Explorando el Mundo Audiovisual</h3>
           <p>
-            Paralelamente a mi trabajo en la industria, también incursioné en el
+          <span className='tab'></span>Paralelamente a mi trabajo en la industria, también incursioné en el
             campo audiovisual. <br />
             <span className='tab'></span>Participé en una variedad de proyectos
             sociales y publicitarios, donde pude expresar mi creatividad y
@@ -42,7 +42,7 @@ export const MainHistoriaPages = () => {
         <section>
           <h3>Valores Profesionales</h3>
           <p>
-            Creo en la preparación continua como clave para mantenerme
+          <span className='tab'></span>Creo en la preparación continua como clave para mantenerme
             actualizado en un mundo digital en constante cambio. <br />
             <span className='tab'></span>Mi compromiso con la excelencia y la
             creatividad me impulsa a superar las expectativas en cada proyecto.{' '}

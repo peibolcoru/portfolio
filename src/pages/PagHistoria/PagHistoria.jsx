@@ -3,7 +3,7 @@ import { HeaderPages } from '../../components/HeaderPages/HeaderPages';
 import { MainHistoriaPages } from '../../components/MainHistoriaPages/MainHistoriaPages';
 export const PagHistoria = () => {
   return (
-    <div>
+    <div className='pagHistoria-container'>
       <HeaderPages title={'mi historia'} />
       <hr />
       <MainHistoriaPages/>
