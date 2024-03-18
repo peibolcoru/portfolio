@@ -2,6 +2,7 @@ import './MainPpal.css';
 import { MenuProg } from './MenuProg/MenuProg';
 import { MenuCrea } from './MenuCrea/MenuCrea';
 import { MenuSobre } from './MenuSobre/MenuSobre';
+import { useState } from 'react';
 
 export const MainPpal = () => {
   const [displayProg, setDisplayProg] = useState(`close`);

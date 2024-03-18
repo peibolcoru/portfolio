@@ -1,5 +1,6 @@
 import './MainProgPages.css';
 import { Proyecto } from '../Proyecto/Proyecto';
+import React from 'react';
 
 
 export const MainProgPages = ({contenido}) => {

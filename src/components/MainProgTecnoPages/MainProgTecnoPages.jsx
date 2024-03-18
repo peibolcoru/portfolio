@@ -1,6 +1,7 @@
 import './MainProgTecnoPages.css';
 import { Tecnologias } from './Tecnologias/Tecnologias';
 import { MoresTech } from './MoresTech/MoresTech.jsx';
+import { useState } from 'react';
 
 export const MainProgTecno = ({ contenido }) => {
   const [display, setDisplay] = useState('');
