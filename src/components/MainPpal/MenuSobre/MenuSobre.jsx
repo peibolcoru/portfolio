@@ -12,7 +12,7 @@ export const MenuSobre = ({ display }) => {
         </li>
         <li>
           <NavLink to='/estudios' className='navlink-custom'>
-            esudios y formación
+            estudios y formación
           </NavLink>
         </li>
         <li>
