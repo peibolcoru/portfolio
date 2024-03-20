@@ -1,15 +1,17 @@
 import './MainHistoriaPages.css';
 import foto from '../../assets/foto.webp';
+import 'animate.css';
+
 
 export const MainHistoriaPages = () => {
   return (
     <div className='historia-container'>
-      <article>
-        <h3 id='titulo-historia'>
+      <article >
+        <h3 className=" animate__animated animate__fadeInRight" id='titulo-historia '>
           De la Industria al Desarrollo Web: Un Viaje de Transformación
         </h3>
 
-        <section className='inicio-foto-container'>
+        <section className='inicio-foto-container animate__animated animate__fadeInLeft'>
           <p>
           <span className='tab'></span>Mi trayectoria profesional ha sido un viaje diverso y emocionante,
             marcado por giros inesperados y la búsqueda constante de crecimiento
@@ -17,7 +19,7 @@ export const MainHistoriaPages = () => {
           </p>
           <img src={foto} alt='' />
         </section>
-        <section>
+        <section >
           <h3>Inicios en el Mundo Industrial</h3>
           <p>
           <span className='tab'></span>Desde una edad temprana, me sumergí en el mundo industrial, donde

@@ -8,7 +8,7 @@ export const MainProgTecno = ({ contenido }) => {
 
   
   return (
-    <div className='progTechContainer'>
+    <div className='progTechContainer slide-left'>
       <h2>lenguajes</h2>
       <Tecnologias contenido={contenido.lenguajes} setDisplay={setDisplay} />
       <MoresTech contenido={contenido.lenguajes} display={display} />

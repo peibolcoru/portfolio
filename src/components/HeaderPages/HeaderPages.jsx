@@ -2,6 +2,7 @@ import React from 'react'
 import './HeaderPages.css';
 import { useNavigate } from 'react-router-dom';
 
+
 export const HeaderPages = ({title}) => {
     const navigate=useNavigate()
   return (
