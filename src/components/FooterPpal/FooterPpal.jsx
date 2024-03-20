@@ -6,7 +6,7 @@ import linkedinIcon from '../../assets/iconos/icons8-linkedin.svg';
 import githubIcon from '../../assets/iconos/icons-github.svg';
 export const FooterPpal = () => {
   return (
-    <footer className='ppalFooter-container'>
+    <footer className='ppalFooter-container puffIn'>
       <div className='enlaces-general-container'>
         <a
           href='https://www.linkedin.com/in/pablo-ferreno-veiga/'

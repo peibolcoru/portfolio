@@ -35,10 +35,6 @@ p.puesto{
     }
 }
 
-.flash {
-    animation: flash 500ms ease infinite alternate;
-  }
-  @keyframes flash {
-      from { opacity: 1; }	
-      to { opacity: 0; }
-  }
+
+
+

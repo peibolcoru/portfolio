@@ -10,9 +10,9 @@ export const MainPpal = () => {
   const [displaySobre, setDisplaySobre] = useState(`close`);
   return (
     <main>
-      <h1 className='saludo'>hola</h1>
+      <h1 className='saludo slide-right'>hola</h1>
       <section>
-        <div className='menu-container'>
+        <div className='menu-container slide-left'>
           <ul>
             <li>
               <div className='title'

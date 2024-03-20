@@ -9,7 +9,7 @@ export const Proyecto = ({ proyecto }) => {
   
 
   return (
-    <div className='proyecto-container'>
+    <div className='proyecto-container slide-right'>
       <HeaderProyecto proyecto={proyecto}/>
       <MainProyecto proyecto={proyecto}/>
       <FooterProyecto proyecto={proyecto}/>

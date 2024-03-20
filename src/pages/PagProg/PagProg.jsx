@@ -12,7 +12,7 @@ export const PagProg = () => {
   return (
     <div>
       <HeaderPages title={title}/>
-      <hr />
+      <hr className='slide-bottom'/>
       <MainProgPages contenido={proy}/> 
     </div>
   )
