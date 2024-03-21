@@ -9,7 +9,7 @@ export const PagAudiovisual = () => {
   return (
     <div>
       <HeaderPages title={'Últimas creaciones'} />
-      <hr />
+      <hr className='slide-bottom'/>
       <MainAudiovisualPages contenido={contenido} />
     </div>
   );

@@ -1,4 +1,5 @@
 import './MainAudiovisualTecnoPages.css';
+import 'animate.css'
 
 import premiere from '../../assets/iconos/audiovisuales/adobe-premiere.svg'
 import aftereffects from '../../assets/iconos/audiovisuales/after-effects.svg'
@@ -14,7 +15,7 @@ export const MainAudiovisualTecnoPages = () => {
   };
   
   return (
-    <div className='mainAudioVisualTecnoPages-container'>
+    <div className='mainAudioVisualTecnoPages-container animate animate__animated animate__bounceInUp'>
       <div className='audiovisualTecno-container'>
         <img
           src={tecnologias.finalcut}

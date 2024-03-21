@@ -11,7 +11,7 @@ export const PagEstudios = () => {
   return (
     <div>
       <HeaderPages title={'estudios y formación'} />
-      <hr />
+      <hr className='slide-bottom'/>
      <MainEstudiosExpPages estudiosExp={formacion}/>
     </div>
   );

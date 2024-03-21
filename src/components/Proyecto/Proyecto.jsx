@@ -1,5 +1,5 @@
 import './Proyecto.css';
-
+import 'animate.css'
 
 import { HeaderProyecto } from './HeaderProyecto/HeaderProyecto';
 import { MainProyecto } from './MainProyecto/MainProyecto';
@@ -9,7 +9,7 @@ export const Proyecto = ({ proyecto }) => {
   
 
   return (
-    <div className='proyecto-container slide-right'>
+    <div className='proyecto-container amimate animate__animated animate__bounceInLeft'>
       <HeaderProyecto proyecto={proyecto}/>
       <MainProyecto proyecto={proyecto}/>
       <FooterProyecto proyecto={proyecto}/>

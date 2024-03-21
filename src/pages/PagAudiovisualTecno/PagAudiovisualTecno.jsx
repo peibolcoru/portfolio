@@ -6,7 +6,7 @@ export const PagAudiovisualTecno = () => {
   return (
     <div>
       <HeaderPages title={'tecnologias audiovisuales'} />
-      <hr />
+      <hr className='slide-bottom'/>
       <MainAudiovisualTecnoPages/>
     </div>
   )

@@ -5,7 +5,7 @@ export const PagHistoria = () => {
   return (
     <div className='pagHistoria-container'>
       <HeaderPages title={'mi historia'} />
-      <hr />
+      <hr className='slide-bottom'/>
       <MainHistoriaPages/>
     </div>
   );
