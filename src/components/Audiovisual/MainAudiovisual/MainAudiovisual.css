@@ -1,13 +1,19 @@
-.audiovisual-descripcion{
+.audiovisual-descripcion {
     display: flex;
     flex-direction: column;
 }
+
 .audiovisual-descripcion p {
     color: var(--white-primary);
-    font-family:var(--textos-retro);
+    font-family: var(--textos-retro);
     margin-bottom: 10px;
 }
-iframe{
-    margin:0 auto;
+
+iframe {
+    margin: 0 auto;
     border-radius: 10px;
+    margin: 20px 30px;
+    -webkit-box-shadow: 0px 2px 14px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 2px 14px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 2px 14px 3px rgba(0, 0, 0, 0.75);
 }
