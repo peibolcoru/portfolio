@@ -2,6 +2,19 @@
     "proyectos":[
         {
             "id":1,
+            "nombre": "Portfolio",
+            "logo": "https://i.imgur.com/OSNwq6h.png",
+            "descripcion": ["Mi portfolio. ",[]],
+            "fecha_inicio": "2024-03-15",
+            "fecha_fin": "2024-03-21",
+            "creador": "Pablo Ferreño",
+            "link_aplicacion":"https://portfolio.ferreno.es/",
+            "Github":["https://github.com/peibolcoru/portfolio","https://github.com/peibolcoru/portfolio"],
+            "Youtube_link":"",
+            "logos_programacion": ["javascript","react","html","css"]
+        },
+        {
+            "id":2,
             "nombre": "Simple notes",
             "logo": "https://i.imgur.com/GJX6ZKZ.png",
             "descripcion": ["API para registro y login de usuarios y creación/manejo de muros y notas de los mismos. ",""],
@@ -13,8 +26,9 @@
             "Youtube_link":"",
             "logos_programacion": ["javascript","react","node","mysql","html","css","material"]
         },
+        
         {
-            "id":2,
+            "id":3,
             "nombre": "Hack a News",
             "logo": "https://i.imgur.com/XfrhEPp.png",
             "descripcion": ["Proyecto para la obtención del Certificado del BootCamp de Hack a Boss.","Implementar una API que permita gestionar noticias colaborativas, donde los usuarios puedan registrarse y publicar una noticia en una serie de categorías temáticas fijas."],
@@ -27,7 +41,7 @@
             "logos_programacion": ["javascript","react","node","mysql","html","css"]
         },
         {
-            "id":3,
+            "id":4,
             "nombre": "Bookbuster",
             "logo": "https://i.imgur.com/YeLD2vm.png",
             "descripcion": ["Biblioteca virtual de prestamos de libros para el centro Ef Business School.","Proyecto en equipo para la obtención de la Certificación de Programación orientada a objetos y bases de datos relacionales."],
