@@ -9,8 +9,8 @@
             "fecha_fin": "2024-03-21",
             "creador": "Pablo Ferreño",
             "link_aplicacion":"https://portfolio.ferreno.es/",
-            "Github":["https://github.com/peibolcoru/portfolio","https://github.com/peibolcoru/portfolio"],
-            "Youtube_link":"",
+            "Github":["https://github.com/peibolcoru/portfolio"],
+            "Youtube_link":null,
             "logos_programacion": ["javascript","react","html","css"]
         },
         {
@@ -49,8 +49,8 @@
             "fecha_fin": "2024-06-03",
             "creador": "Pablo Ferreño, Javier, Pablo G., Luis, Dino, Manuel, Daniel, Pedro, Pedro P., Manuel C., Manolo, Alfonso",
             "link_aplicacion":"https://www.bookbusters.es/index.php",
-            "Github":["",""],
-            "Youtube_link":"",
+            "Github":[],
+            "Youtube_link":null,
             "logos_programacion": ["php","javascript","mariadb","html","css","bootstrap"]
         }
     ]

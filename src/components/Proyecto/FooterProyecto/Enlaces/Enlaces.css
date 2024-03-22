@@ -31,3 +31,9 @@
 .icons-container img.youtube-icon {
     width: 80px;
 }
+.youtubeLink.apagado{
+    display: none;
+}
+.links-proyecto.apagado{
+    display: none;
+}
