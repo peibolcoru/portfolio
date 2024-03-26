@@ -36,13 +36,13 @@ const tecnologias = {
 }
 
 export const Tecnologia = ({ contenido,setDisplay }) => {
-  const [selectIcon,setSelectIcon] = useState("");
-  const handleClick = async ()=>{  
-      setSelectIcon(selectIcon === '' ? 'select' : '')
-      setDisplay(contenido.nombre);
+  const [selectIcon,setSelectIcon] = useState(false);
+  const handleClick =(nombre)=>{  
+   setSelectIcon(nombre);
+     setDisplay(nombre);
   }
   return (
-    <div className={`lenguaje-container ${selectIcon}`} onClick={handleClick}>
+    <div className={`lenguaje-container ${selectIcon === contenido.nombre ? `select` : ''}`} onClick={()=>handleClick(contenido.nombre)}>
       
       <h3 >{contenido.nombre}</h3>
       <img  src={tecnologias[contenido.nombre]} alt="" /> 
